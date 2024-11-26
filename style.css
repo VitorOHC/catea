@@ -63,6 +63,8 @@ p {
   text-decoration: none;
 }
 
+
+
 /*Cadastro*/
 .cCadas {
   font-family: Arial, sans-serif;
@@ -74,6 +76,8 @@ p {
 }
 
 
+
+
 /*Inicial*/
 .cInicial {
   font-family: Arial, sans-serif;
@@ -81,13 +85,18 @@ p {
   margin: 0;  
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: top;
   height: 50;
   padding-top: 50px;
 }
 
 .bod{
   background-color: #e6f2e6;
+}
+.panel {
+  background-color: #f9f9f9;
+  padding: 20%;
+  border-radius: 10px;
 }
 
 
@@ -175,7 +184,7 @@ p {
 
 
 
-/*Pág Profissional*/
+/*Pág Chat*/
 
 
 *{
